@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HasnainKhan
+- 👋 Hi, I’m HasnainKhan
 - 👀 I’m interested in Python, Automation, Websites and Stock markets
 - 🌱 I’m currently learning Everything
 - 💞️ I’m looking to collaborate on Automation problems
